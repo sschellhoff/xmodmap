@@ -1,0 +1,24 @@
+clear Lock
+keycode  21 = dead_acute dead_grave dead_acute dead_grave grave
+keycode  25 = w W w W U3BB
+keycode  31 = i I i I semicolon
+keycode  32 = o O o O colon
+keycode  33 = p P p P underscore
+keycode  34 = udiaeresis Udiaeresis udiaeresis Udiaeresis apostrophe
+keycode  38 = a A a A exclam
+keycode  39 = s S s S quotedbl
+keycode  40 = d D d D dollar
+keycode  41 = f F f F percent
+keycode  42 = g G g G ampersand
+keycode  43 = h H h H slash
+keycode  44 = j J j J parenleft
+keycode  45 = k K k K parenright
+keycode  46 = l L a A equal
+keycode  47 = odiaeresis Odiaeresis semicolon colon question
+keycode  48 = adiaeresis Adiaeresis apostrophe quotedbl apostrophe
+keycode  52 = y Y y Y bracketleft
+keycode  53 = x X x X bracketright
+keycode  54 = c C c C braceleft
+keycode  55 = v V v V braceright
+keycode  56 = b B b B U1E9E
+keycode  66 = ISO_Level3_Shift
